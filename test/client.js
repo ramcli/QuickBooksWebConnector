@@ -1,3 +1,3 @@
 var qbws = require('..');
-console.log('Starting SOAP request');
+console.log('Starting CL Lease -  QB Webconnect SOAP Server');
 qbws.run();
